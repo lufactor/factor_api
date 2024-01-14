@@ -1,5 +1,17 @@
 {
- "animals":[
+ "utenti":[
+    {
+        "id": "1",
+        "name": "prova",
+        "cf": "test"
+    },
+    {
+        "id": "2",
+        "name": "prova2",
+        "cf": "test"
+    }
+ ]
+  "veicoli":[
     {
         "id": "1",
         "name": "prova",
